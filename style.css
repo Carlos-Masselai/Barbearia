@@ -1,8 +1,17 @@
-.centralizado {
+.titulo-principal{
+  padding-left: 30px;
+}
+
+.principal{
+  background-color: #CCCCCC;
+  padding: 30px;
+}
+
+.titulo-centralizado{
   text-align: center;
 }
 
-p{
+p {
   text-align: center;
 }
 
@@ -10,32 +19,25 @@ p{
   font-size: 20px;
 }
 
-em strong {
-  color: maroon;
+em strong{
+  color: #191970;
 }
+
 #banner{
   width: 100%;
 }
-.titulo-principal{
-  padding-left: 30px;
-}
 
-.principal{
-
-  background-color: #cccccc;
-  padding: 30px;
-}
- #beneficios{
-  width: 50%;
-
-}
-ul{
+ul {
   display: inline-block;
   vertical-align: top;
-  widht: 20%;
+  width: 20%;
   margin-right: 15%;
-
 }
+
+#beneficios {
+  width: 50%;
+}
+
 .item {
   font-style: italic;
-  }
+}

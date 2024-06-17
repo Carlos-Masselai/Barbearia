@@ -148,3 +148,7 @@ th, td{
   border: 2px solid #000000;
   padding: 8px 15px;
 }
+
+.banner {
+  width: 100%
+}
